@@ -1,5 +1,7 @@
-To assess skills in molecular modeling, we provide two tasks:
+As part of our exploration of molecular modeling, we have designed tasks to assess and develop foundational skills in this field.
 
-Practical Task: Focused on the basics of molecular modeling, this task (in the attachment) takes 2–4 hours, depending on programming proficiency.
-Theoretical Task: Involves exploring path sampling methodology, presenting it clearly, and analyzing a scientific paper with its underlying math and physics.
-These tasks aim to evaluate problem-solving abilities and deepen understanding of molecular modeling.
+Practical Task: To evaluate your approach to molecular modeling, we have included a task that covers the basics of the discipline. This task, provided in the attachment, is expected to take approximately 2 to 4 hours to complete, depending on your programming proficiency.
+
+Theoretical Task: To delve deeper into the math and physics underlying the kinetics of molecular modeling, we offer an additional theoretical challenge. This task involves exploring the path sampling methodology and presenting it in a clear and educational format. Additionally, it includes analyzing a scientific paper and working through the associated mathematical and physical concepts.
+
+These tasks are designed to challenge your problem-solving skills and deepen your understanding of molecular modeling and its theoretical foundations.
